@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    align-items: center;
+    margin-left:90px;
+    margin-top: 5px;
+
+}
+
+img{
+    height: 30px;
+    width: 30px;
+    margin : 20px;
+}
+
+body{
+    background-color: #5AB2FF;
+
+}
+
+.main{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #FFF9D0 ;
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.btn{
+    background-color: #CAF4FF;
+    font-weight: 200;
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+select#from option[value="USD"]   { background-image:url(reverse.jpeg);   };
+
+
+
+
+
+
